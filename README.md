@@ -1,2 +1,2 @@
-# skandar
-Chess Engine
+# Skandar
+A UCI-compatible Chess Engine. Download 'Arena' to play.
